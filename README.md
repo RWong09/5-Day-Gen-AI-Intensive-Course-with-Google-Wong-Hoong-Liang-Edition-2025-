@@ -103,6 +103,11 @@ and achieve at least **3 gen AI capabilities in the notebook**. The genAI capabi
 - Vector search/vector store/vector database
 - MLOps (with GenAI)
 
+These are my project links:
+Notebook - https://www.kaggle.com/code/wonghoongliang/capstone-project-2025-q1-by-wong-hl
+Youtube Video - https://www.youtube.com/watch?v=QzwXxPqiiMY
+Blogpost - https://medium.com/@hoongliang03/have-you-ever-wondered-how-severe-air-pollution-can-be-to-the-society-economics-and-also-to-our-c403ee9b7e2c
+
 ---
 
 ## 📂 Resources I’m Sharing  
