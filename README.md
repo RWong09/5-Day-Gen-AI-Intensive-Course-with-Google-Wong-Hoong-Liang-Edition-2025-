@@ -83,7 +83,7 @@ Check out the [bonus notebook](https://www.kaggle.com/code/markishere/bonus-day-
 
 ---
 
-## 🎯 Special Task for 2025!  
+## ✅ Special Task for 2025!  
 You need to do a capstone project in order to get the course's badge. Use case idea for the project is open to any topics but you have to make sure the project is functional (able to run the code)
 and achieve at least **3 gen AI capabilities in the notebook**. The genAI capabilities are listed as below:
 - Structured output/JSON mode/controlled generation
@@ -106,9 +106,12 @@ and achieve at least **3 gen AI capabilities in the notebook**. The genAI capabi
 ---
 
 ## 📂 Resources I’m Sharing  
-As I progress, I’m compiling all the whitepapers, code labs, and additional insights into a resource repository. Stay tuned for updates!  
+This repository has all the resources that I did for the courses, of course I do refer some resources online, and this readme file is also copied and edited from @sauravkumar8178. 
+His repo link: https://github.com/sauravkumar8178/5-Day-Gen-AI-Intensive-Course-with-Google/tree/main
 
 ---
 
 ### 🙌 Let’s Connect  
 If you’re on a similar journey or want to collaborate, feel free to reach out or explore this repository. Together, let’s unlock the potential of Generative AI!  
+
+My LinkedIn: https://www.linkedin.com/in/wong-hoong-liang-57124530a/ 
